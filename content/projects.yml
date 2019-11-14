@@ -1,0 +1,459 @@
+# app 1
+- title: Responsive Landing Page
+  slug: /Responsive_Landing_Page/
+  img: images/Screenshot (88).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Responsive Landing Page
+      type: website
+      url: https://sodastereo87.github.io/Responsive_Landing_Page/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Responsive_Landing_Page
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+   
+   # app 2
+
+- title: Bootflix
+  slug: /Bootflix/
+  img: images/Screenshot (68).png
+  description: >
+   
+   Main features of the app allows users:
+    -Search movies by name and see results.
+    -Watch YouTube videos related to the movies.
+    -See info on IMDB.
+    -Get ‘this’ Gifs and have some fun.
+    -Firestore save search movies.
+    -Firebase Authentication to gauge users’ interests.
+
+
+  links:
+    - title: Responsive Landing Page
+      type: website
+      url: https://sodastereo87.github.io/Responsive_Landing_Page/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Responsive_Landing_Page
+   
+  techstack:
+    - HTML
+    - CSS
+    - Firebase Cloud Firestore Database
+    - Firebase Cloud Realtime Database
+    - OMDB API
+    - YouTube API
+    - Giphy API
+    - Materialize.css by Google
+    - Firebase Authentication
+
+# app 3
+- title: Crystals Collector Game
+  slug: /Crystals Collector Game/
+  img: images/Screenshot (58).png
+  description: >
+   
+   
+    coming soon....
+
+
+  links:
+    - title: Crystals Collector Game 
+      type: website
+      url: https://sodastereo87.github.io/unit-4-game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/unit-4-game
+   
+  techstack:
+    - HTML
+    - CSS
+    - Firebase Cloud Firestore Database
+    - Firebase Cloud Realtime Database
+    - OMDB API
+    - YouTube API
+    - Giphy API
+    - Materialize.css by Google
+    - Firebase Authentication
+
+# app 5
+
+- title: Train Scheduler
+  slug: /Train Scheduler/
+  img: images/Screenshot (62).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Train Scheduler
+      type: website
+      url: https://sodastereo87.github.io/Train-Scheduler/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Train-Scheduler  
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Firebase Cloud Realtime Database
+    - Moment.js
+
+    # app 6
+
+- title: GifTastic  
+  slug: /GifTastic  /
+  img: images/Screenshot (64).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: GifTastic  
+      type: website
+      url: https://sodastereo87.github.io/GifTastic/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/GifTastic
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - giphy Database
+
+    # app 7
+
+- title: Interactive Quiz  
+  slug: /Interactive Quiz  /
+  img: images/Screenshot (90).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Interactive Quiz  
+      type: website
+      url: hhttps://sodastereo87.github.io/interactive_quiz/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/interactive_quiz
+
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    
+        # app 8
+
+- title: Word Guess Game  
+  slug: /Word Guess Game  /
+  img: images/Screenshot (63).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Word Guess Game  
+      type: website
+      url: https://sodastereo87.github.io/Word-Guess-Game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Word-Guess-Game
+
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+
+     # app 9
+
+- title: Donuts Game  
+  slug: /Donuts Game  /
+  img: images/Screenshot (91).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Donuts Game  
+      type: website
+      url: https://sodastereo87.github.io/Homer-s_donuts_game-js/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Homer-s_donuts_game-js
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    
+     # app 10
+
+- title: RGB Color Game 
+  slug: /RGB Color Game /
+  img: images/Screenshot (65).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: RGB Color Game 
+      type: website
+      url: https://sodastereo87.github.io/The_Awesome_RGB_Color-Game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/The_Awesome_RGB_Color-Game
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+
+    # app 11
+
+- title: ToDo List 
+  slug: /ToDo List /
+  img: images/Screenshot (66).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: ToDo List 
+      type: website
+      url: https://sodastereo87.github.io/To-Do-List/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/To-Do-List
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    - Font Awesome
+    - jQuery
+
+     # app 11
+
+- title: Todo Search Bar 
+  slug: /Todo Search Bar /
+  img: images/Screenshot (94).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Todo Search Bar 
+      type: website
+      url: https://sodastereo87.github.io/todo_with_search_bar/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/todo_with_search_bar
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    - Font Awesome
+    - Bootstrap
+
+     # app 12
+
+- title: Eat Da Burguer 
+  slug: /Eat Da Burguer /
+  img: images/Screenshot (70).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Eat Da Burguer 
+      type: website
+      url: https://evening-falls-19783.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Eat-Da-Burger-
+
+  techstack:
+    - Handlebars  
+    - CSS
+    - JavaScript
+    - Express 
+    - MySQL
+
+    # app 13
+
+- title: Friend Finder
+  slug: /Friend Finder/
+  img: images/Screenshot (71).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Friend Finder
+      type: website
+      url: https://guarded-peak-51012.herokuapp.com
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/FriendFinder
+
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Express 
+    
+    # app 14
+
+- title: MongoDB Scraper
+  slug: /MongoDB Scraper/
+  img: images/Screenshot (81).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: MongoDB Scraper
+      type: website
+      url: https://warm-citadel-53512.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Mongo_scraper
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - React
+    - Express
+    - MongoDB
+    - Mongoose 
+    - Cheerio
+    - Handlebars
+    - Node.js
+    - Heroku, mLab
+
+     # app 15
+
+- title: Weather App JS
+  slug: /Weather App JS/
+  img: images/Screenshot (93).png
+  description: >
+   
+   Check the weather from any location or big city in the world.
+
+  links:
+    - title: Weather App JS
+      type: website
+      url: https://sodastereo87.github.io/weather_app_js/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/weather_app_js
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Forecast API
+
+     # app 15
+
+- title: DBZ Clicky Game
+  slug: /DBZ Clicky Game/
+  img: images/Screenshot (82).png
+  description: >
+   Click on an image to earn points, but don't click on any more than once!
+    The application keeps track of the player's score. The player's score should be incremented when clicking an image for the first time. The player's score should be reset to 0 if they click the same image more than once. Every time an image is clicked, the images will shuffle themselves in a random order. If the player's score is reset after an incorrect guess, the game will restart.
+
+  links:
+    - title: DBZ Clicky Game
+      type: website
+      url: https://radiant-savannah-11773.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/React_Clicky_Game  
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - React
+    - NodeJS
+    - Express
+    - MongoDB
+
+    
+    # app 15
+
+- title: Google Books Search
+  slug: /Google Books Search/
+  img: images/Screenshot (116).png
+  description: >
+   
+   A React-based Google Books Search that displays books on user searches. Search for books using the Google Books API by typing in a title and clicking on "Search". The user can view the book which will bring them to the page on Google Books by clicking "View" in the results for the search. Click "Save" to save the book to the database.
+
+  links:
+    - title: Google Books Search
+      type: website
+      url: https://thawing-woodland-86880.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/google_search_react
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - React
+    - NodeJS
+    - Express
+    - MongoDB
+
+        # app 16
+
+- title: MERN Reservetion App
+  slug: /MERN Reservetion App/
+  img: images/Screenshot (87).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: MERN Reservetion App
+      type: website
+      url: https://hidden-journey-40789.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/master_project
+  techstack:
+    - HTML  
+    - CSS
+    - Reactstrap
+    - JavaScript
+    - MongoDB
+    - Express
+    - React
+    - Node.js
+    - Mongoose 
+    - Heroku, mLab
+    - Firebase
+
+
+
+
+    

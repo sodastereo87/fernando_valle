@@ -1,0 +1,35 @@
+- title: fernando valle
+  tagline: Web Developer
+  description: Portfolio of web apps
+  url: https://master-portfolio.herokuapp.com/
+  email: m@fernando.valle11@gmail.com
+  avatar: ../src/images/1460px-React_logo-324x400.png
+  img: ../src/images/twitter-card.png
+
+  social:
+    Email: mailto:fernando.valle11@gmail.com
+    Blog: https://github.com/sodastereo87
+    Twitter: https://www.linkedin.com/in/fernando-valle-b52862a2/
+    GitHub: https://github.com/sodastereo87
+    Dribbble: https://dribbble.com/kremalicious
+
+
+  availability:
+    status: false
+    available: 'Available for new projects. <a href="mailto:fernando.valle11@gmail.com">Let’s talk</a>!'
+    unavailable: Let's get in touch.<a href="mailto:fernando.valle11@gmail.com"> Contact me!</a>
+
+  # Footer actions
+  gpg: https://kretschmann.io/pub.gpg
+  addressbook: /matthias-kretschmann.vcf
+
+  typekitID: dtg3zui
+
+  # Analytics tools
+  matomoUrl: https://analytics.kremalicious.com
+  matomoSite: 2
+
+  allowedHosts:
+    - matthiaskretschmann.com
+    - beta.matthiaskretschmann.com
+    - localhost
