@@ -2,7 +2,7 @@
   "name": "master_portfolio",
   "description": "Portfolio thingy, built with Gatsby",
   "version": "0.1.0",
-  "homepage": "https://master-portfolio.herokuapp.com/",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sodastereo87/master_portfolio.git"
