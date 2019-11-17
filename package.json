@@ -1,14 +1,14 @@
 {
-  "name": "master_portfolio",
+  "name": "fernando_valle",
   "description": "Portfolio thingy, built with Gatsby",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sodastereo87/master_portfolio.git"
+    "url": "git+https://github.com/sodastereo87/fernando_valle.git"
   },
   "bugs": {
-    "url": "https://github.com/sodastereo87/master_portfolio/issues"
+    "url": "https://github.com/sodastereo87/fernando_valle/issues"
   },
   "license": "ISC",
   "author": "fernando valle",
